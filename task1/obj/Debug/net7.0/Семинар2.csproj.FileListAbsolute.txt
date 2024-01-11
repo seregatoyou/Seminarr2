@@ -1,0 +1,14 @@
+C:\Users\IT\Desktop\Семинар2\task1\bin\Debug\net7.0\Семинар2.exe
+C:\Users\IT\Desktop\Семинар2\task1\bin\Debug\net7.0\Семинар2.deps.json
+C:\Users\IT\Desktop\Семинар2\task1\bin\Debug\net7.0\Семинар2.runtimeconfig.json
+C:\Users\IT\Desktop\Семинар2\task1\bin\Debug\net7.0\Семинар2.dll
+C:\Users\IT\Desktop\Семинар2\task1\bin\Debug\net7.0\Семинар2.pdb
+C:\Users\IT\Desktop\Семинар2\task1\obj\Debug\net7.0\Семинар2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Desktop\Семинар2\task1\obj\Debug\net7.0\Семинар2.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\Семинар2\task1\obj\Debug\net7.0\Семинар2.AssemblyInfo.cs
+C:\Users\IT\Desktop\Семинар2\task1\obj\Debug\net7.0\Семинар2.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Семинар2\task1\obj\Debug\net7.0\Семинар2.dll
+C:\Users\IT\Desktop\Семинар2\task1\obj\Debug\net7.0\refint\Семинар2.dll
+C:\Users\IT\Desktop\Семинар2\task1\obj\Debug\net7.0\Семинар2.pdb
+C:\Users\IT\Desktop\Семинар2\task1\obj\Debug\net7.0\Семинар2.genruntimeconfig.cache
+C:\Users\IT\Desktop\Семинар2\task1\obj\Debug\net7.0\ref\Семинар2.dll
